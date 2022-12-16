@@ -9,10 +9,15 @@
   justify-content: center;
   font-size: 32px;
   top: 0;
+  flex-direction: column;
 }
 
 @media screen and (max-width: 500px) {
   #no-mobile {
     display: none;
   }
+}
+
+#no-mobile span {
+  margin-bottom: 30px;
 }
