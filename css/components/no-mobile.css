@@ -1,4 +1,4 @@
-#no-mobile {
+/* #no-mobile {
   position: absolute;
   z-index: 99;
   background-color: var(--yellow);
@@ -10,9 +10,9 @@
   font-size: 32px;
   top: 0;
   flex-direction: column;
-}
-
-@media screen and (max-width: 100px) {
+} */
+/* 
+@media screen and (max-width: 1000px) {
   #no-mobile {
     display: none;
   }
@@ -20,4 +20,4 @@
 
 #no-mobile span {
   margin-bottom: 30px;
-}
+} */
